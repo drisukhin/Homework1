@@ -14,7 +14,6 @@ import static org.junit.Assert.assertEquals;
 public class Litecart {
     private WebDriver driver;
     private WebDriverWait wait;
-
     @Before
     public void start() {
 
